@@ -1,10 +1,3 @@
-
-//Load external scripts.
-/*app.Script( "Home.js" );
-app.Script( "About.js" );
-app.Script( "File.js" );
-app.Script( "Utils.js" );
-*/
 app.Script( "All.js" );
 
 //Init some global variables.
